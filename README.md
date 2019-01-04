@@ -74,3 +74,34 @@ cnpm install(i) element-ui -S
 
 安装less依赖，npm install less less-loader --save
 
+# 地址 #
+
+朱小厮
+
+https://blog.csdn.net/u013256816/
+
+程序员江湖
+
+https://blog.csdn.net/a724888/
+
+
+
+
+
+# 开源接口
+
+爱词霸
+
+http://open.iciba.com/dsapi/
+
+必应每日一图
+```
+<img src="https://api.dujin.org/bing/1366.php" alt="Bing每日图片" />
+<img src="https://api.dujin.org/bing/1920.php" alt="Bing每日图片超高清" />
+
+https://cn.bing.com/cnhp/coverstory?d=20181217
+id为缺省日期
+```
+干货集中营
+
+https://gank.io/api
