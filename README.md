@@ -72,6 +72,10 @@ cnpm install vue-router vue-resource --save
 
 cnpm install(i) element-ui -S
 
+npm install iview --save
+
+npm install axios -S
+
 安装less依赖
 
 当所有东西都 准备好之后 ：
